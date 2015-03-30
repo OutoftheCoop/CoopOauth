@@ -1,0 +1,17 @@
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\CoopOauth.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\CoopOauth.pdb
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\businesslogic.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\cms.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\CoopRelay.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\interfaces.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\Umbraco.Core.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\umbraco.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Web.Http.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Web.Http.xml
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\obj\Debug\CoopOauth.dll
+C:\Users\jeff\Documents\GitHub\CoopOauth\CoopOauth\obj\Debug\CoopOauth.pdb
